@@ -22,3 +22,9 @@ The project demonstrates Git, GitHub, Docker, GitHub Actions, and webhooks.
 ## How to Run
 
 Open `index.html` in a web browser.
+## Repository Structure
+
+- `index.html`: Portfolio webpage
+- `style.css`: Website styling
+- `Dockerfile`: Container configuration (added later)
+- `.github/workflows/ci.yml`: Automated workflow (added later)
